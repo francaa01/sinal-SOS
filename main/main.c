@@ -52,3 +52,5 @@ void app_main(void)
         send_sos(); // Enviar sinal SOS
     }
 }
+
+//by chat gpt //editado por leandro
